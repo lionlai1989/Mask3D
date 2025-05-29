@@ -1,0 +1,4 @@
+# The .dockerignore file is placed in the same directory as the Dockerfile
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
